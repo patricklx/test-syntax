@@ -1,0 +1,2 @@
+*.gjs linguist-language=jsx linguist-detectable
+*.gts linguist-language=tsx linguist-detectable
